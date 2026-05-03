@@ -2,7 +2,7 @@
 
 🎯 Financial Analyst | Equity Valuation | Financial Modeling | Data & BI
 
-I build financial models, analyze data, and develop dashboards to generate insights for investment and business decision-making. My work combines finance and analytics across Excel, Python, SQL, and BI tools. I have applied these techniques to real companies including Altus Group, FirstEnergy, and Capital Power to derive valuation insights and investment recommendations.
+I build financial models, analyze data, and develop dashboards to generate insights for investment and business decision-making. My work integrates finance and analytics using Excel, Python, SQL, and BI tools.
 
 ---
 
@@ -13,7 +13,7 @@ I build financial models, analyze data, and develop dashboards to generate insig
 - 🧮 Portfolio analysis and optimization (risk-return, diversification)
 - 📊 Data analysis using Python and SQL
 - 📉 Dashboard development (Power BI & IBM Cognos)
-- 📌 Turning data into actionable business and investment insights
+- 📌 Translating financial and operational data into actionable investment and business decisions
 
 ---
 
