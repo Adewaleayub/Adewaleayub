@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayuba Jimoh
 
-🎯 Financial Analyst | Equity Valuation | Portfolio Modeling | Data & Business Intelligence  
+🎯 Financial Analyst | Equity Valuation | Financial Modeling | Data & BI
 
 I build financial models, analyze data, and develop dashboards to generate insights for investment and business decision-making. My work combines finance and analytics across Excel, Python, SQL, and BI tools. I have applied these techniques to real companies including Altus Group, FirstEnergy, and Capital Power to derive valuation insights and investment recommendations.
 
